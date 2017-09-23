@@ -1,0 +1,1 @@
+g++ *.cpp *.c -o bin/fatLines.exe -Iinclude -Llib -lglfw3 -lopengl32 -lgdi32 -std=c++11 -Wfatal-errors -g -fno-exceptions
